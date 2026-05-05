@@ -1,0 +1,21 @@
+{
+  "name": "solidity-security-check",
+  "version": "1.0.0",
+  "description": "Quick security checks for Solidity projects \u2014 reentrancy, overflow, access control patterns",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "solidity",
+    "security",
+    "audit",
+    "check",
+    "reentrancy",
+    "ethereum",
+    "smart-contracts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harunosakura030303-maker/solidity-security-check"
+  },
+  "dependencies": {}
+}
